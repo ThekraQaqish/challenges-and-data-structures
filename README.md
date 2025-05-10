@@ -1,2 +1,8 @@
 # challenges-and-data-structures
-challenge #1
+### Whiteboard Images
+
+### Challenge A: Array Reversal  
+![Array Reversal Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/whiteboard-challenges/ReversalArray.png)
+
+### Challenge B: Most Frequent Number  
+![Most Frequent Number Whiteboard](https://github.com/YourUsername/challenges-and-data-structures/blob/main/whiteboard-challenges/most-frequent-number.png)
