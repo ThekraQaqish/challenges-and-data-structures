@@ -5,4 +5,6 @@
 ![Array Reversal Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/whiteboard-challenges/ReversalArray.png)
 
 ### Challenge B: Most Frequent Number  
-![Most Frequent Number Whiteboard](https://github.com/YourUsername/challenges-and-data-structures/blob/main/whiteboard-challenges/most-frequent-number.png)
+![Most Frequent Number Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/whiteboard-challenges/TheMostFreq.png)
+![Most Frequent Number #2 Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/whiteboard-challenges/TheMostFreq.png)
+
