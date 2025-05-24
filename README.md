@@ -12,5 +12,7 @@
 ![Minimum value Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Mininmum-Value/whiteboard-challenges/minimumValue.png)
 
 ### Challenge 3: Reverse Characters
-![Reverse Characters Output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/Challenges/Reverse-Characters/ReverseCharactersScreenshot.png
+![Reverse Characters Readme File](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/README.md
 )
+
+![Reverse Characters Output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/Challenges/Reverse-Characters/ReverseCharactersScreenshot.png)
