@@ -16,3 +16,5 @@
 )
 
 ![Reverse Characters Output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/Challenges/Reverse-Characters/ReverseCharactersScreenshot.png)
+![Reverse Characters Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/Challenges/Reverse-Characters/WhiteBoard.png)
+
