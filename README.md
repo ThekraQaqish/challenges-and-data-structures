@@ -17,12 +17,3 @@ Writing a function that takes a string as input and without using built in metho
 
 ![Reverse Characters Output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/Challenges/Reverse-Characters/ReverseCharactersScreenshot.png)
 ![Reverse Characters Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/Challenges/Reverse-Characters/WhiteBoard.png)
-=======
-![Reverse Characters Readme File](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/README.md
-)
-
-![Reverse Characters Output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/Challenges/Reverse-Characters/ReverseCharactersScreenshot.png)
-![Reverse Characters Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/Challenges/Reverse-Characters/WhiteBoard.png)
-
-
-
