@@ -10,3 +10,7 @@
 ### Challenge 2: Minimum-Value  
 ### Challenge description: Writing a function that accept an array of integers, without using any built-in method. The function should return the smallest value in the array.
 ![Minimum value Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Mininmum-Value/whiteboard-challenges/minimumValue.png)
+
+### Challenge 3: Reverse Characters
+![Reverse Characters Output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Reverse-Characters/Challenges/Reverse-Characters/ReverseCharactersScreenshot.png
+)
