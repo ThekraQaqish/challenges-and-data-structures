@@ -1,6 +1,8 @@
 # Linked List Implementation
 
-This project implements a singly linked list in JavaScript with basic operations.
+# Singly Linked List - JavaScript Implementation
+
+This project demonstrates the implementation of a Singly Linked List in JavaScript. It includes core functionalities such as adding, inserting, removing, checking for inclusion, and printing the list.
 
 ## Files
 
@@ -12,8 +14,61 @@ This project implements a singly linked list in JavaScript with basic operations
 - `whiteboard.png`: Whiteboard explanation of the implementation.
 - `console-output.png`: Screenshot of the console output.
 
-## How to Run
+---
 
-1. Install dependencies:
-   ```bash
-   npm install jest
+##  Features Implemented:
+
+- `add(data)`
+- `insertAt(index, data)`
+- `remove(data)`
+- `includes(data)`
+- `printList()`
+
+---
+
+##  Whiteboard Visuals
+
+###  Add Function
+![Add function whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Linked-List-Implementation/Data%20Structure/LinkedList/LinkedList-Implementation/images/Add-function-whiteboard.png.png)
+
+---
+
+###  Include Function
+![Include function whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Linked-List-Implementation/Data%20Structure/LinkedList/LinkedList-Implementation/images/Include-function-whiteboard.png.png)
+
+---
+
+###  InsertAt Function
+![InsertAt function whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Linked-List-Implementation/Data%20Structure/LinkedList/LinkedList-Implementation/images/InsertAt-function-whiteboard.png.png)
+
+---
+
+###  Remove Function
+![Remove function whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Linked-List-Implementation/Data%20Structure/LinkedList/LinkedList-Implementation/images/Remove-function-whiteboard.png.png)
+
+---
+
+###  PrintList Function
+![PrintList function whiteboard]([https://example.com/printList-function-whiteboard.png](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Linked-List-Implementation/Data%20Structure/LinkedList/LinkedList-Implementation/images/printList-function-whiteboard.png.png))
+
+---
+
+##  Console Output
+
+###  Console Output from Manual Testing
+![Console output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Linked-List-Implementation/Data%20Structure/LinkedList/LinkedList-Implementation/images/console-output.png.png)
+
+---
+
+###  Console Output from Jest Tests
+![Jest test output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Linked-List-Implementation/Data%20Structure/LinkedList/LinkedList-Implementation/images/console-jest.png.png)
+
+---
+
+##  How to Run
+
+1. Clone the repository
+2. Open the project in the code editor
+3. Run the JavaScript file using Node.js:
+```bash
+node linkedlist.js
