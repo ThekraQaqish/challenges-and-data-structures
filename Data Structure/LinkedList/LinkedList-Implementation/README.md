@@ -49,7 +49,7 @@ This project demonstrates the implementation of a Singly Linked List in JavaScri
 ---
 
 ###  PrintList Function
-![PrintList function whiteboard]([https://example.com/printList-function-whiteboard.png](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Linked-List-Implementation/Data%20Structure/LinkedList/LinkedList-Implementation/images/printList-function-whiteboard.png.png))
+![PrintList function whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Linked-List-Implementation/Data%20Structure/LinkedList/LinkedList-Implementation/images/printList-function-whiteboard.png.png)
 
 ---
 
