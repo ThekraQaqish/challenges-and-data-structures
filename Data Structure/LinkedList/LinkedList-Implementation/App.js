@@ -1,7 +1,6 @@
 const LinkedList = require('./LinkedList');
 
 const list = new LinkedList();
-
 //add()
 console.log("=== Testing add() ===");
 list.add(10);
