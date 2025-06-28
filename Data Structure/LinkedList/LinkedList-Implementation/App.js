@@ -1,4 +1,6 @@
 const LinkedList = require('./LinkedList');
+const Node = require('./nodeclass');
+const mergerSortedList = require('./MergeSorted/mergeSorted');
 
 const list = new LinkedList();
 //add()
@@ -43,6 +45,31 @@ list.printList(); // 50 -> 40 -> 25 -> 30 -> null
 list.insertAt(100, 5); // index > list.length
 // Index out of bounds
 
-// اختبار خاصية size
-console.log("\n=== Testing size property ===");
-console.log("Current size of the list:", list.size); // يجب أن تكون 4
+
+
+
+// merge 2 sorted linkedlist 
+const list1 = new LinkedList();
+list1.add(1);
+list1.add(3);
+list1.add(4);
+
+const list2 = new LinkedList();
+list2.add(2);
+list2.add(4);
+list2.add(6);
+
+console.log("=== list1 ===");
+list1.printList(); // 1 -> 3 -> 5 -> null
+
+console.log("=== list2 ===");
+list2.printList(); // 2 -> 4 -> 6 -> null
+
+const mergedList = mergerSortedList(list1, list2);
+
+console.log("=== Merged List ===");
+if (mergedList && mergedList.printList) {
+    mergedList.printList(); // 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> null
+} else {
+    console.log("Merged list is empty or not a LinkedList object.");
+}

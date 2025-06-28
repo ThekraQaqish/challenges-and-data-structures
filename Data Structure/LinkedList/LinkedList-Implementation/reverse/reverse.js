@@ -3,7 +3,7 @@ const list = require("../LinkedList");
 function reverse(list){
     if(!list.head){
         console.log('the list is empty');
-        return;
+        return null ;
     }
     let current=list.head;
     let prev=null;
