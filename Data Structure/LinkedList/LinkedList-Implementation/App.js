@@ -1,6 +1,7 @@
 const LinkedList = require('./LinkedList');
 const Node = require('./nodeclass');
 const mergerSortedList = require('./MergeSorted/mergeSorted');
+const rotateLeft = require('./rotateLinkedList/roteteLinkedList');
 
 const list = new LinkedList();
 //add()
@@ -52,7 +53,7 @@ list.insertAt(100, 5); // index > list.length
 const list1 = new LinkedList();
 list1.add(1);
 list1.add(3);
-list1.add(4);
+list1.add(5);
 
 const list2 = new LinkedList();
 list2.add(2);
@@ -73,3 +74,6 @@ if (mergedList && mergedList.printList) {
 } else {
     console.log("Merged list is empty or not a LinkedList object.");
 }
+
+console.log("=== Rotate left===");
+rotateLeft(mergedList,2).printList(); // 3 -> 4 -> 5 -> 6 -> 1 -> 2 -> null
