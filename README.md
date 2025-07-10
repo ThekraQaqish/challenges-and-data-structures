@@ -323,15 +323,15 @@ The last item pushed into the stack is the first one to be removed.
 
 ###  Stack Whiteboard
 - Whiteboard Explanation:  
-  ![Stack Whiteboard]('https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/stack-whiteboard.png')
+  ![Stack Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/stack-whiteboard.png)
 
 ###  Stack Console Output
 - Console Output:  
-  ![Stack Console]('https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/Stack-app-output.png')
+  ![Stack Console](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/Stack-app-output.png)
 
 ###  Stack Jest Test Output
 - Jest Test Output:  
-  ![Stack Jest]('https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/Stack-jest-console.png')
+  ![Stack Jest](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/Stack-jest-console.png)
 
 ---
 
@@ -349,15 +349,15 @@ The first element enqueued is the first one to be dequeued.
 
 ###  Queue Whiteboard
 - Whiteboard Explanation:  
-  ![Queue Whiteboard]('https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/queue-whiteboard.png')
+  ![Queue Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/queue-whiteboard.png)
 
 ###  Queue Console Output
 - Console Output:  
-  ![Queue Console]('https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/queue-app-output.png')
+  ![Queue Console](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/queue-app-output.png)
 
 ###  Queue Jest Test Output
 - Jest Test Output:  
-  ![Queue Jest]('https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/queue-jest-console.png')
+  ![Queue Jest](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/StackAndQueue/stackAndQueue/images/queue-jest-console.png)
 
 ---
 
