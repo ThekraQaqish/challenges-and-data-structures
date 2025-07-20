@@ -19,7 +19,7 @@ This project extends a basic `Stack` class by adding a method to **delete the mi
 ### Stack Before `deleteMiddle()`
 
 <!-- Replace with your Whiteboard drawing link -->
-![Whiteboard Explanation]([https://your-whiteboard-image-link.com](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/Data-Structure/StackAndQueue/stackAndQueue/images/deleteMiddleElement-whiteboard.png))
+![Whiteboard Explanation]([https://your-whiteboard-image-link.com](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/Delete-Middle-Element-Stack/Data-Structure/StackAndQueue/stackAndQueue/images/deleteMiddleElement-whiteboard.png)
 
 ### Stack After `deleteMiddle()`
 
