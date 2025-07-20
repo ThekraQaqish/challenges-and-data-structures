@@ -75,5 +75,5 @@ if (mergedList && mergedList.printList) {
     console.log("Merged list is empty or not a LinkedList object.");
 }
 
-console.log("=== Rotate left===");
+console.log("=== Rotate left ===");
 rotateLeft(mergedList,2).printList(); // 3 -> 4 -> 5 -> 6 -> 1 -> 2 -> null
