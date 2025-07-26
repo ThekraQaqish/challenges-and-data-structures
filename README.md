@@ -372,7 +372,7 @@ To run the tests:
 npm install
 npm test
 ```
->>>>>>> main
+
 # Stack with Delete Middle Operation
 
 This project extends a basic `Stack` class by adding a method to **delete the middle element** from the stack. The middle is defined as:
