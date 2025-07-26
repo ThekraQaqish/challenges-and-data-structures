@@ -170,14 +170,14 @@ list.printList(); // Output: 30 -> 20 -> 10 -> null
 
 ##  Whiteboard Explanation
 
-![Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data%20Structure/LinkedList/LinkedList-Implementation/images/reverse-function-whiteboard.png)
+![Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/LinkedList/LinkedList-Implementation/images/reverse-function-whiteboard.png)
 
 ---
 ##  Test Results
 
-![Test Results](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data%20Structure/LinkedList/LinkedList-Implementation/images/reverse-console-jest.png)
+![Test Results](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/LinkedList/LinkedList-Implementation/images/reverse-console-jest.png)
 
-
+---
 # 🔗 Merge Two Sorted Linked Lists
 
 > A simple implementation to merge two sorted singly linked lists into one sorted linked list.
