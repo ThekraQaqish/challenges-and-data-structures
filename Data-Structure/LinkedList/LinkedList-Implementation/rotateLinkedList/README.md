@@ -24,7 +24,7 @@ This project implements a function to rotate a singly linked list to the left by
 
 ## Console  Jest Output
 
-![Console jest Output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data%20Structure/LinkedList/LinkedList-Implementation/images/rotate-left-jest-output.png)  
+![Console jest Output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/LinkedList/LinkedList-Implementation/images/rotate-left-jest-output.png)  
 
 ---
 
@@ -38,7 +38,13 @@ This project implements a function to rotate a singly linked list to the left by
 
 ## Console App Output
 
-![Console app Output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/LinkedList/LinkedList-Implementation/images/rotate-left-jest-output.png)  
+![Console app Output](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/LinkedList/LinkedList-Implementation/images/Rotate-left-app-console-output.png)  
+
+---
+
+## Whiteboard
+
+![Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/LinkedList/LinkedList-Implementation/images/rotate-left-whiteboard.png)  
 
 ---
 
