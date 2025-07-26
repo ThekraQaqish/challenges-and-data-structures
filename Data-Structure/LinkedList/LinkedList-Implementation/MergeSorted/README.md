@@ -59,17 +59,17 @@ mergedList.printList();
 
 ##  Whiteboard Explanation
 
-![Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data%20Structure/LinkedList/LinkedList-Implementation/images/merge-function-whiteboard.png)
+![Whiteboard](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/LinkedList/LinkedList-Implementation/images/merge-function-whiteboard.png)
 
 ---
 ##  Test Results
 
-![Test Results](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data%20Structure/LinkedList/LinkedList-Implementation/images/merge-function-jest-output.png)
+![Test Results](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/LinkedList/LinkedList-Implementation/images/merge-function-jest-output.png)
 
 ---
 ##  Console Output Results
 
-![Console Output Result Results](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data%20Structure/LinkedList/LinkedList-Implementation/images/merge-function-app-console-output.png)
+![Console Output Result Results](https://github.com/ThekraQaqish/challenges-and-data-structures/blob/main/Data-Structure/LinkedList/LinkedList-Implementation/images/merge-function-app-console-output.png)
 
 
 ---
