@@ -20,7 +20,7 @@ class stackWithDeleteMiddle extends Stack {
             }
         }
 
-        while (!tempStack.isEmpty()) {
+        while (tempStack.isEmpty()==="isEmpty: false") {
             this.push(tempStack.pop());
         }
 

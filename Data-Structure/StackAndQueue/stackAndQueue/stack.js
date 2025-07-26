@@ -26,21 +26,21 @@ class Stack{
     }
     isEmpty(){
         if(this.top){
-            return false;
+            return `isEmpty: ${false}`;
         }
         else{
-            return true;
+            return `isEmpty: ${true}`;
         }
     }
 
     print(){
         let current = this.top;
-        let result ='Stack: Top -> ';
+        let result ='Top -> ';
         while(current){
             result+=current.data+' -> ';
             current=current.next;
         }
-        console.log( result + 'Bottom - null');
+        return( result + 'null');
     }
     clear(){
         this.top=null;
