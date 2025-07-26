@@ -1,5 +1,4 @@
 const stack = require('../stack');
-const Node = require('../nodeclass');
 
 describe('stack', () => {
     let stack1;
@@ -20,15 +19,8 @@ describe('stack', () => {
         stack1.push(20);
         stack1.push(30);
 
-        const consoleLog = console.log;
-        let logOutput = '';
-        console.log = (msg) => logOutput += msg;
-
-        stack1.print();
-
-        console.log = consoleLog; // Restore console
-
-        expect(logOutput).toContain("Stack: Top -> 30 -> 20 -> 10 -> Bottom - null");
+        const result = stack1.print();
+        expect(result).toBe("Top -> 30 -> 20 -> 10 -> null");
     });
 
     test('should pop the top node', () => {
@@ -44,7 +36,7 @@ describe('stack', () => {
         stack1.push(10);
         stack1.push(20);
         stack1.push(30);
-        expect(stack1.isEmpty()).toBe(false);
+        expect(stack1.isEmpty()).toBe('isEmpty: false');
     });
 
     test('should return true if stack is empty', () => {
@@ -52,7 +44,7 @@ describe('stack', () => {
         stack1.push(20);
         stack1.pop();
         stack1.pop();
-        expect(stack1.isEmpty()).toBe(true);
+        expect(stack1.isEmpty()).toBe('isEmpty: true');
     });
 
     test('should return the top node of the stack', () => {
@@ -65,6 +57,6 @@ describe('stack', () => {
     stack1.push(10);
     stack1.push(20);
     stack1.clear();
-    expect(stack1.isEmpty()).toBe(true);
+    expect(stack1.isEmpty()).toBe('isEmpty: true');
 });
 });
